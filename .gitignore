@@ -1,0 +1,54 @@
+# Ignore object files and executables
+*.o
+*.obj
+*.exe
+
+# Ignore precompiled headers
+*.gch
+*.pch
+
+# Ignore dynamic/static libraries
+*.so
+*.a
+*.dylib
+*.lib
+*.dll
+
+# Ignore compiled source files
+*.out
+
+# Ignore debugging files
+*.dSYM/
+*.stackdump
+*.log
+
+# Ignore build directories
+/build/
+/dist/
+/bin/
+/lib/
+/obj/
+
+# Ignore CMake-generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Ignore Visual Studio files
+.vscode/
+*.vcxproj
+*.vcxproj.user
+*.sln
+*.user
+*.filters
+ipch/
+
+# Ignore IDE-specific files
+*.idea/
+*.vs/
+
+# Ignore backup files
+*~
+*.bak
+*.tmp
