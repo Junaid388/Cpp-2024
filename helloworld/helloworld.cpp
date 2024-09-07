@@ -6,7 +6,7 @@ using namespace std; // using namespace standard, distinguish methods from our d
 
 
 //not loading whole standard only defined
-// using std::cout; 
+// using std::cout;
 // using stf::endl; //line end 'enter'
 
 
