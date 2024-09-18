@@ -15,3 +15,8 @@ int main(){ // revise the main method
     cout << "Welcome back to cpp 3" <<endl;
     return 0;
 }
+
+// class 4
+// Primitive DataType - int, float, double, char, boolean, void,
+// Derived - array, function, pointer, reference_wrapper
+// user defined -  structure, union, enum, class, typedef
